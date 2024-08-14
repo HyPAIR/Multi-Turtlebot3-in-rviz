@@ -2,7 +2,7 @@
 
 Here is a short demonstration video showing the multi-TurtleBot3 running in Rviz:
 
-![Multi-TurtleBot3 Simulation in Rviz](multi_turtlebot_move_base.mp4)
+![Multi-TurtleBot3 Simulation in Rviz](multi_turtlebot_move_base.gif)
 
 ## TF Tree
 
